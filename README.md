@@ -58,4 +58,6 @@ jupyter notebook
 ```
 
 ## Author
-Muhammad Awais khan 
+**Muhammad Awais khan**
+AI Engineer|📍 Peshawar, KPK
+✉️ muhammadawaisaiengineer1@gmail.com
