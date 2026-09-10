@@ -50,7 +50,7 @@ The notebook must complete the following tasks:
 
 ## 4. Tools & Libraries
 ```python
-pandas, numpy, matplotlib, seaborn, plotly
+pandas, numpy, matplotlib, seaborn, plotly```
 
 ## Author
 Muhammad Awais khan
