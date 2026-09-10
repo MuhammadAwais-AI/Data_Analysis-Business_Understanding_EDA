@@ -53,4 +53,7 @@ The notebook must complete the following tasks:
 pandas, numpy, matplotlib, seaborn, plotly```
 
 ## Author
-Muhammad Awais khan
+
+**Muhammad Awais Khan**  
+Data Analyst | Peshawar, PK  
+📧 muhammadawaisai55@gmail.com
