@@ -54,7 +54,8 @@ numpy
 matplotlib
 seaborn
 plotly
-jupyter notebook```
+jupyter notebook
+```
 
-## *Author*
+## Author
 Muhammad Awais khan 
