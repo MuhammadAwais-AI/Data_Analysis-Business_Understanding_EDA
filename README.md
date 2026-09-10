@@ -56,5 +56,5 @@ seaborn
 plotly
 jupyter notebook```
 
-## Author
+## *Author*
 Muhammad Awais khan 
