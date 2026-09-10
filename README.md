@@ -54,7 +54,7 @@ numpy
 matplotlib
 seaborn
 plotly
-jupyter notebook
+jupyter notebook```
 
 ## Author
 Muhammad Awais khan 
